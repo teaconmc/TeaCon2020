@@ -1,5 +1,5 @@
 ---
-name: 提问
+name: 提一个问题
 about: 提一个有关 TeaCon2020 的问题。
 title: "[提问]: [问题名字]"
 labels: 提问
